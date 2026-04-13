@@ -1,13 +1,23 @@
-# Data-Collection
+# 📊 Data Collection & Visualization
 
-1. import
-2. data
-3. colors
-4. figure
-5. plot
-6. text
-7. labels
-8. limits
-9. grid
-10. layout
-11. show
+Python-based data visualizations using Matplotlib.
+
+## 📁 Project Structure
+- `notebooks/` — Jupyter notebooks for each topic
+- `outputs/` — Saved chart images
+- `data/` — Source data files
+
+## 📈 Visualizations Covered
+| # | Topic | Type |
+|---|-------|------|
+| 1 | Oscar Best Picture Revenue | Line Chart |
+| 2 | Oscar vs Non-Oscar Revenue | Multi-line Chart |
+| 3 | Bollywood Blockbusters | Bar Chart |
+| 4 | Bollywood vs Tollywood | Grouped Bar Chart |
+| 5 | TV Shows TRP Rating | Scatter Plot |
+
+## 🛠 Setup
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
