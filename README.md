@@ -9,7 +9,7 @@ Python-based data visualizations using Matplotlib.
 
 ## 📈 Visualizations Covered
 | # | Topic | Type |
-|---|-------|------|
+|---|-------|------| 
 | 1 | Oscar Best Picture Revenue | Line Chart |
 | 2 | Oscar vs Non-Oscar Revenue | Multi-line Chart |
 | 3 | Bollywood Blockbusters | Bar Chart |
