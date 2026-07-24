@@ -5,7 +5,7 @@ Python-based data visualizations using Matplotlib.
 ## 📁 Project Structure
 - `notebooks/` — Jupyter notebooks for each topic
 - `outputs/` — Saved chart images
-- `data/` — Source data files
+- `data/` — Source data files 
 
 ## 📈 Visualizations Covered
 | # | Topic | Type |
