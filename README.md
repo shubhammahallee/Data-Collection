@@ -1,6 +1,6 @@
 # 📊 Data Collection & Visualization 
 
-Python-based data visualizations using Matplotlib.
+Python-based data visualizations using Matplotlib. 
 
 ## 📁 Project Structure
 - `notebooks/` — Jupyter notebooks for each topic
