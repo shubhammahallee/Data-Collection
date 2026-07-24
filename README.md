@@ -1,4 +1,4 @@
-# 📊 Data Collection & Visualization
+# 📊 Data Collection & Visualization 
 
 Python-based data visualizations using Matplotlib.
 
